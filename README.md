@@ -1,6 +1,6 @@
 ## Welcome to KIP-Pages
 
-This site contains information regarding our view on Knowledge Intensive Process Lifecycle and is to be used for in class discussions.
+This site contains information regarding our view on **Knowledge Intensive Process Lifecycle** and is to be used for in class discussions.
 
 The site is built on **GitHup Pages** and **Jekyll**, integrated with **Docker** container to facilitate editing.
 
