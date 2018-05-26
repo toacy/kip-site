@@ -6,11 +6,13 @@ The site is built on **GitHup Pages** and **Jekyll**, integrated with **Docker**
 
 To create the site use:
 
-> make sure you have installed **Docker** and the **Jekyll** container ()
-> download/clone the **kip-site** repo
-> cd to the local **kip-site** root
-> build the site with the command : docker-compose run jekyll jekyll build 
-> serve the site with the command : docker-compose run --service-ports jekyll jekyll serve
+> 1. make sure you have installed **Docker** and the **Jekyll** container ()
 >
-> make changes using your local editor.
+> 2. download/clone the **kip-site** repo
+> 3. cd to the local **kip-site** root
+> 4. build the site with the command : docker-compose run jekyll jekyll build 
+> 5. serve the site with the command : docker-compose run --service-ports jekyll jekyll serve
+>
+
+make changes using your local editor.
 
