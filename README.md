@@ -14,5 +14,5 @@ To create the site use:
 > 5. serve the site with the command : docker-compose run --service-ports jekyll jekyll serve
 >
 
-make changes using your local editor.
+Make changes using your local editor and the local site will be update automatically. Check [Jekyll/Docker](https://github.com/envygeeks/jekyll-docker/blob/master/README.md) for more information 
 
